@@ -8,5 +8,5 @@ This tool is able to grade Java code automatically based on JUnit tests, there a
 4) The student can use the web app to download an interface for an assignment.
 5) The student implemets the interface in a project and uploads the zip file of the project to the server.
 
-BackEnd -> https://github.com/sorinb97/tester
-FrontEnd -> https://github.com/sorinb97/tester-ng
+*BackEnd -> https://github.com/sorinb97/tester 
+*FrontEnd -> https://github.com/sorinb97/tester-ng
